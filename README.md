@@ -1,5 +1,5 @@
 # Hi there, I'm José Luis Vacan 👋
-### Software QA  Engineer | Test Automation & Test Manual
+### Software QA  Engineer | Test Automation & Software Developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge)](https://linkedin.com/in/jluisvacan)
 [![Email Badge](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:jluisvacan64@gmail.com)
@@ -20,7 +20,7 @@ Here is my core QA evidence showcase, covering API testing, UI test automation, 
 | 🚀 **[Playwright_Framework](https://github.com/jluisvacan/Playwright_Framework)** | E2E Web Automation | • Page Object Model (POM) design pattern.<br>• Cross-browser testing (Chromium, Firefox, WebKit).<br>• Parallel test execution & automated trace visualizers. | JavaScript, Playwright, HTML Reports |
 | ⚡ **[API_Testing_Rest-Assured](https://github.com/jluisvacan/API_Testing_Rest-Assured)** | Backend API Automation | • Robust API automation covering CRUD, Auth, and Schema validation.<br>• Data-driven testing with custom assertions.<br>• CI/CD ready structure. | Java, Rest-Assured, TestNG/JUnit, Maven |
 | 🥋 **[TestKarate](https://github.com/jluisvacan/TestKarate)** | API BDD & Performance | • BDD-driven API testing framework (Gherkin syntax).<br>• Zero-Java code API assertions and payload manipulation.<br>• Integrated test execution & detailed report generation. | Karate Framework, Gherkin, Java, Maven |
-
+| 📈 **[JMeterPerfTesting](https://github.com/jluisvacan/JMeterPerfTesting)** | Performance & Load Testing | • Load, stress, and spike testing for REST API services.<br>• Response time assertions, throughput tracking, and CSV Data Set parameterization.<br>• Automated HTML dashboard reports & CLI non-GUI execution. | Apache JMeter|
 ---
 
 ## 🛠️ Software Engineering & Developer Foundations
@@ -39,11 +39,11 @@ Having hands-on development skills allows me to understand backend mechanics, re
 
 ## 📐 QA Methodology & Skills Matrix
 
-| Functional & Manual QA | Automation Engineering | Software & DevOps Foundations |
+| Functional & Manual QA | Automation & Performance Engineering | Software & DevOps Foundations |
 | :--- | :--- | :--- |
-| 📋 **Test Planning & Execution**<br>• Test Strategy & Test Plan Design<br>• Functional, Regression & Smoke Testing<br>• Boundary Value & Equivalence Partitioning | 🌐 **UI Web Automation**<br>• Playwright (Java)<br>• Page Object Model (POM) Design Pattern<br>• Cross-Browser & Headless Execution | 💻 **Programming Languages**<br>• Python, Java, JavaScript<br>• Asynchronous Programming & DOM Analysis<br>• Code Review & Debugging Mindset |
-| 🐞 **Defect Lifecycle**<br>• Clear Bug Reporting & Severity Triage<br>• Root Cause Analysis (RCA)<br>• Jira & Issue Tracking Integration | 🔌 **API Test Automation**<br>• Rest-Assured (Java) & Karate Framework<br>• CRUD, Auth Tokens & JSON Schema Validation<br>• BDD with Cucumber & Gherkin Syntax | 🔄 **Integration & CI/CD**<br>• Git Workflow (Branching, PRs, Merge)<br>• GitHub Actions & Webhook Integration<br>• Postman Collections & Newman CLI |
-| 📑 **Quality Governance**<br>• STLC & Agile/Scrum Integration<br>• Requirement Traceability Matrix (RTM)<br>• Exploratory & Usability Testing | 📊 **Reporting & Diagnostics**<br>• Allure & HTML Report Generation<br>• Trace Viewers, Screenshots & Video Logs<br>• Parallel Execution & Fast Feedback Loops | ⚡ **Backend Awareness**<br>• RESTful API Architecture & FastAPI<br>• Client-Server Handshake & WebSockets<br>• HTTP Headers, Status Codes & Payloads |
+| 📋 **Test Planning & Execution**<br>• Test Strategy & Test Plan Design<br>• Functional, Regression & Smoke Testing<br>• Boundary Value & Equivalence Partitioning | 🌐 **UI & API Automation**<br>• Playwright (Java), Rest-Assured, Karate<br>• Cross-Browser & Headless Execution<br>•  CRUD, Auth Tokens & JSON Schema Validation | 💻 **Programming Languages**<br>• Python, Java, JavaScript<br>• Asynchronous Programming & DOM Analysis<br>• Code Review & Debugging Mindset |
+| 🐞 **Defect Lifecycle**<br>• Clear Bug Reporting & Severity Triage<br>• Root Cause Analysis (RCA)<br>• Jira & Issue Tracking Integration | 📈 **Performance & Load Testing**<br>• Apache JMeter (Stress, Load & Endurance Testing)<br>• Non-GUI Execution & Distributed Load Testing<br>• Performance KPIs (Throughput, Latency, Error Rate) | 🔄 **Integration & CI/CD**<br>• Git Workflow (Branching, PRs, Merge)<br>• GitHub Actions & Webhook Integration<br>• Postman Collections & Newman CLI |
+| 📑 **Quality Governance**<br>• STLC & Agile/Scrum Integration<br>• Requirement Traceability Matrix (RTM)<br>• Exploratory & Usability Testing | 📊 **Reporting & Diagnostics**<br>• JMeter HTML Dashboard Reports & Allure<br>• Trace Viewers, Screenshots & Video Logs<br>• Parallel Execution & Fast Feedback Loops | ⚡ **Backend Awareness**<br>• RESTful API Architecture & FastAPI<br>• Client-Server Handshake & WebSockets<br>• HTTP Headers, Status Codes & Payloads |
 
 
 
